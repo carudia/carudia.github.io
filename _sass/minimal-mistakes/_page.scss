@@ -34,6 +34,15 @@ body {
 .search-content {
   flex: 1 0 auto;
 }
+/* 내가 추가한 코드 시작 */
+.page {
+  .page__content {
+    .pre {
+      background-color: gray;
+    }
+  }
+}
+/* 내가 추가한 코드 끝 */
 
 .page {
   @include breakpoint($large) {
