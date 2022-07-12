@@ -24,3 +24,5 @@ sidemenu:
      children:
        - title: "minimal-mistakes"
          url: /minimal-mistakes/
+   - title: "Python"
+     url: /Python/
