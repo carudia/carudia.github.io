@@ -16,6 +16,8 @@ main:
   #   url: /sitemap/
 
 sidemenu:
+   - title: "Python"
+     url: /Python/
    - title: "Linux"
      children:
        - title: "CentOS7"
@@ -24,5 +26,3 @@ sidemenu:
      children:
        - title: "minimal-mistakes"
          url: /minimal-mistakes/
-   - title: "Python"
-     url: /Python/
