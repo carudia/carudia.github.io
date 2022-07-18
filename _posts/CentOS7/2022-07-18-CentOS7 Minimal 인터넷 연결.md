@@ -20,8 +20,7 @@ author_profile: true
 ## CentOS7 Internet Setting
 
 ### 1) 인터넷 설정하기
-<pre class="black"><code>
-  # nmcli d
+<pre class="black"><code>  # nmcli d
   # nmtui
 </code></pre>
   
