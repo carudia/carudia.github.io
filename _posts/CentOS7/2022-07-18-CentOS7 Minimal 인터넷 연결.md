@@ -20,9 +20,10 @@ author_profile: true
 ## CentOS7 Internet Setting
 
 ### 1) 인터넷 설정하기
-<pre class="black"><code>  # nmcli d
+<pre class="black"><code>
+  # nmcli d
   # nmtui
-  </code></pre>
+</code></pre>
   
 nmcli d 로 무선 인터넷 이름을 확인한다. 나의 경우 내가 미리 세팅해놓은 와이파이 공유기로 사용했기에 이 부분은 건너띔.
 nmtui   명령어로 해당 무선 인터넷 정보를 입력
